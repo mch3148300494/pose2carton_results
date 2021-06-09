@@ -1,4 +1,4 @@
-# pose2carton
+# Pose2Carton
 EE228课程大作业，利用3D骨架控制3D卡通人物
 # Maya环境配置
 1、本小组使用windows系统完成上述大作业，根据助教在知乎给出的Windows配置maya环境的教程，首先在官网上下载、安装maya2020软件，并用学生卡申请教育版权限。  
