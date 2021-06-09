@@ -1,2 +1,7 @@
-# pose2carton_results
+# Maya环境配置
+由于人体姿态迁移分为两个部分，第二部分从网上下载fbx模型进行fbx_parser以及后续的texture蒙皮贴图生成fbx文件都需要maya环境，因此首先我们进行了maya环境的配置。
+1、本小组使用windows系统完成上述大作业，根据助教在知乎给出的Windows配置maya环境的教程，首先在官网上下载、安装maya2020软件，并用学生卡申请教育版权限。
+2、打开命令终端cmd，在maya环境安装pip和numpy。
+3、在cmd的mayapy中分别输入教程所示的import命令，检测无异常。
+在网上预下载一个fbx文件（本项目所有的fbx文件均在mixamo网站下载得到），在cmd的mayapy中运行fbx_parser文件，得到了对应的obj、txt、mtl以及fbm文件夹，至此Maya环境成功配置完成。
 519030910371(group_11)results of pose2carton
