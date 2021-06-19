@@ -14,22 +14,8 @@ EE228课程大作业，利用3D骨架控制3D卡通人物(https://github.com/yuz
 # 项目结果
 原始动作：  
 <img src="./img/0.png" width="375"/>  
-匹配后模型动作：  
-<img src="./img/1.png" width="375"/>  
-<img src="./img/2.png" width="375"/>  
-<img src="./img/3.png" width="375"/>  
-<img src="./img/4.png" width="375"/>  
-<img src="./img/5.png" width="375"/>  
-<img src="./img/6.png" width="375"/>  
-<img src="./img/7.png" width="375"/>  
-<img src="./img/8.png" width="375"/>  
-<img src="./img/9.png" width="375"/>  
-<img src="./img/10.png" width="375"/>  
-<img src="./img/11.png" width="375"/>  
-<img src="./img/12.png" width="375"/>  
-<img src="./img/13.png" width="375"/>  
-<img src="./img/14.png" width="375"/>  
-<img src="./img/15.png" width="375"/>  
+匹配后模型动作：    
+<img src="./img/13.png" width="375"/>    
 # 协议
 本项目在Apache-2.0协议下开源  
 所涉及的代码及数据的最终解释权归倪冰冰老师课题组所有  
